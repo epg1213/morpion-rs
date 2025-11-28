@@ -12,5 +12,6 @@ https://rustup.rs/
 ## Run
 
 cd morpion-rs
+
 cargo run
 
